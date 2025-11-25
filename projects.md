@@ -4,34 +4,28 @@ title: "Proyectos"
 permalink: /projects/
 ---
 
-Aquí tienes una selección de mis proyectos de **análisis de datos**:
+Aquí recopilo algunos de mis proyectos de **análisis de datos**.
+
+---
 
 ## 📊 Proyecto 1 – Análisis de ventas
 
 - **Herramientas:** Python, Pandas, Matplotlib  
-- **Descripción:** Limpieza y análisis exploratorio de un dataset de ventas para identificar patrones de estacionalidad.  
-- **Highlights:**  
-  - Tratamiento de valores nulos y outliers  
-  - Segmentación de clientes  
-  - Visualización de tendencias mensuales  
-- **Repositorio:** [Ver en GitHub](https://github.com/alejandromtdata)
+- **Descripción:** Análisis exploratorio de un dataset de ventas para identificar patrones por región y mes.  
+- **Repositorio:** [Ver en GitHub](https://github.com/alejandromtdata/MI-REPO-VENTAS)
 
 ---
 
-## 🧠 Proyecto 2 – Dashboard de métricas
+## 🧠 Proyecto 2 – Dashboard de KPIs
 
 - **Herramientas:** Power BI / Tableau  
-- **Descripción:** Creación de un dashboard interactivo para seguimiento de KPIs de negocio.  
-- **Highlights:**  
-  - Modelado de datos  
-  - Métricas personalizadas (DAX / cálculos)  
-  - Filtros por región, producto y periodo  
-- **Demo / Capturas:** próximamente 
+- **Descripción:** Dashboard interactivo para seguimiento de KPIs de negocio.  
+- **Highlights:** filtros por fecha, producto, región.
 
 ---
 
-## 📈 Proyecto 3 – SQL para reporting
+## 🗄️ Proyecto 3 – SQL para reporting
 
-- **Herramientas:** SQL (PostgreSQL / MySQL)  
-- **Descripción:** Conjunto de consultas SQL optimizadas para reporting semanal.  
-- **Highlights:** joins complejos, CTEs, ventanas, agregaciones.
+- **Herramientas:** SQL  
+- **Descripción:** Consultas SQL para generar informes semanales de negocio.  
+- **Puntos clave:** joins, CTEs, funciones de ventana.
