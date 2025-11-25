@@ -4,16 +4,16 @@ title: "Sobre mí"
 permalink: /about/
 ---
 
-## 👋 ¿Quién soy?
+## Soy Alejandro Morillas
 
-Soy **Alejandro**, analista de datos interesado en:
+Soy Analista de datos con experiencia en:
 
 - Limpieza, transformación y visualización de datos
 - Python (Pandas, Matplotlib/Seaborn), SQL
 - Herramientas de BI (Power BI / Tableau, lo que uses)
 - Automatización de reporting y soporte a negocio
 
-## 🎯 ¿Qué vas a encontrar aquí?
+## Qué vas a encontrar en este portfolio?
 
 - Proyectos de análisis explicados paso a paso
 - Notebooks y código en GitHub
@@ -21,6 +21,6 @@ Soy **Alejandro**, analista de datos interesado en:
 
 Si quieres contactar conmigo, puedes hacerlo por:
 
-- Email: tu-email-aquí
-- LinkedIn: tu-link-aquí
+- Email: alejandromtdev@gmail.com
+- LinkedIn: 
 - GitHub: [@alejandromtdata](https://github.com/alejandromtdata)

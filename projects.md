@@ -10,7 +10,7 @@ Cada proyecto está orientado a **resultados de negocio**: ahorro de costes, efi
 
 ---
 
-## 📊 Proyecto 1 – Optimización de costes de inventario
+## Proyecto 1 – Optimización de costes de inventario
 
 > **Objetivo:** reducir costes asociados a stock inmovilizado y sobreinventario.
 
@@ -32,7 +32,7 @@ Análisis de varios años de datos de inventario por producto, categoría y alma
 
 ---
 
-## 📈 Proyecto 2 – Dashboard de KPIs financieros
+## Proyecto 2 – Dashboard de KPIs financieros
 
 > **Objetivo:** dar visibilidad a dirección sobre márgenes, costes y rentabilidad por línea de negocio.
 
