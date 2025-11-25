@@ -1,0 +1,19 @@
+title: "alejandromt - Data Portfolio"
+description: "Portfolio y blog de análisis de datos."
+theme: minima
+
+url: "https://alejandro-mt-data.github.io/website_data/"
+baseurl: "/website_data"
+
+author:
+  name: "Alejandro"
+  email: "alejandromtdev@gmail.com"
+
+github_username: alejandromtdev
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
