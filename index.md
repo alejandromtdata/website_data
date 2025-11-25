@@ -2,17 +2,54 @@
 layout: home
 title: "Inicio"
 ---
-# Hola, soy Alejandro.
 
-Soy analista de datos.  
-En esta web encontrarás:
+# Analista de Datos enfocado en ahorro de costes 💸
 
-- 📄 Mi **trayectoria y contacto**
-- 🧠 **Artículos técnicos** sobre Python, SQL, BI y más
-- 📊 **Proyectos** de análisis de datos
+Soy **Alejandro**, analista de datos especializado en **detectar ineficiencias y reducir costes operativos** a través de datos accionables.
+
+> He llegado a **reducir hasta un 2–3% los costes** en proyectos internos, optimizando procesos, recursos y toma de decisiones.
 
 ---
 
-## Últimos posts del blog
+## ✅ Highlights (lo que aporto a tu equipo)
 
-Debajo verás automáticamente los últimos posts que vaya publicando.
+- ✅ Experiencia en **análisis de datos orientado al negocio**
+- ✅ Capacidad para traducir datos complejos en **insights accionables**
+- ✅ Foco en **ahorro de costes, eficiencia y mejora de procesos**
+- ✅ Documentación clara y visual para **stakeholders no técnicos**
+- ✅ Mentalidad de mejora continua y aprendizaje constante
+
+---
+
+## 🛠️ Herramientas que domino
+
+<div class="tools-grid">
+
+- **Excel avanzado** (Power Query, tablas dinámicas, fórmulas complejas)
+- **SQL** (consultas, joins, CTEs, ventanas)
+- **Power BI / Tableau** (dashboards interactivos)
+- **Python** (Pandas, análisis exploratorio, visualización)
+- **Git & GitHub** (versionado, colaboración, portfolio técnico)
+
+</div>
+
+---
+
+## 📊 Proyectos recientes
+
+Aquí tienes una muestra de algunos proyectos.  
+Puedes ver el detalle completo en la sección de [Proyectos](/website_data/projects/).
+
+### 1️⃣ Optimización de costes de inventario
+
+- **Descripción:** análisis de datos históricos de inventario para detectar stock sobrante y rotación lenta.  
+- **Técnicas:** análisis exploratorio, segmentación por categoría y rotación, visualización de indicadores.  
+- **Herramientas:** Python (Pandas), Excel, Power BI.  
+- **Resultado:** identificación de oportunidades de reducción de stock valoradas en **X% del inventario total**.
+
+---
+
+### 2️⃣ Dashboard de KPIs financieros
+
+- **Descripción:** desarrollo de un dashboard de KPIs para dirección financiera (márgenes, costes, ingresos por línea de negocio).  
+- **Técnicas:** modelado de datos, creación de medidas personalizadas, diseño orientado a ne

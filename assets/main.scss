@@ -1,25 +1,19 @@
 @import "minima";
 
-/* Tus estilos personalizados */
-
+/* Estilo general */
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
-/* Centrar y dar un poco de aire al contenido */
-.wrapper {
-    max-width: 900px;
+/* Sección de herramientas */
+.tools-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.5rem;
 }
 
-/* Títulos un poco más “data / tech” */
-h1, h2, h3 {
-    letter-spacing: 0.02em;
-}
-
-/* Proyectos con look de tarjeta sencillo */
-.page-content h2 {
-    margin-top: 2rem;
-    padding: 0.75rem 1rem;
-    border-radius: 8px;
-    border: 1px solid #ddd;
+@media (min-width: 768px) {
+  .tools-grid {
+    grid-template-columns: 1fr 1fr;
+  }
 }
