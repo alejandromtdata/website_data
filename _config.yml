@@ -1,4 +1,4 @@
-title: "Alejandro Morillas Torres - Data Portfolio"
+title: "Alejandro Morillas Torres Data Analytics"
 description: "Portfolio y blog de análisis de datos."
 theme: minima
 
@@ -16,4 +16,5 @@ plugins:
 header_pages:
   - index.md
   - about.md
+  - tecnologies.md
   - projects.md
