@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tecnologias"
-permalink: /projects/
+permalink: /Tecnologias/
 ---
 
 ![alt text](images/logo-wide-lightbg.svg)
