@@ -1,2 +1,2 @@
 # website_data
-Personal portfolio and data analytics blog built with github pages. 
+Porfolio personal y blog de análisis de datos creado con GitHub Pages.

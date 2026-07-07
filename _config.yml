@@ -1,20 +1,24 @@
-title: "Alejandro Morillas Torres Data Analytics"
-description: "Portfolio y blog de análisis de datos."
+title: "Alejandro Morillas"
+description: "Porfolio de Alejandro Morillas, Analista de Datos Junior orientado a transformar datos en información útil para la toma de decisiones."
 theme: minima
 
-url: "https://alejandromtdata.github.io/website_data/"
+url: "https://alejandromtdata.github.io"
 baseurl: "/website_data"
+lang: es
 
-author:
-  name: "Alejandro"
-  email: "alejandromtdev@gmail.com"
+author: "Alejandro Morillas"
+email: "alejandromtdata@outlook.es"
 
-github_username: alejandromtdev
+github_username: alejandromtdata
 plugins:
   - jekyll-feed
+
+minima:
+  date_format: "%d/%m/%Y"
 
 header_pages:
   - index.md
   - about.md
   - tecnologies.md
   - projects.md
+
