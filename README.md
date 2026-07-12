@@ -13,7 +13,7 @@ The website showcases my projects, technical skills and professional journey tow
 
 ## Live Website
 
-https://TU-WEB](https://alejandromtdata.github.io/website_data/
+https://alejandromtdata.github.io/website_data/
 
 ## Features
 
